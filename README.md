@@ -1,6 +1,3 @@
-- 👋 Hi, I’m Tottoko
-- 👀 I’m interested in coding and art
-- 🌱 I’m currently learning computer science
 - 📫 How to reach me winnie.cs1209@gmail.com
 
 <!---
